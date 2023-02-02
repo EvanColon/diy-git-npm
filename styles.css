@@ -1,0 +1,12 @@
+p {
+margin: 15%;
+text-decoration: underline;
+color: red;
+letter-spacing: 20px;
+text-align: center;
+white-space: pre-wrap;
+font-family: Tahoma, Arial, “Trebuchet MS”, Helvetica, sans-serif;
+font-size: x-large;
+background-color: black;
+border: 10px solid green;
+}
